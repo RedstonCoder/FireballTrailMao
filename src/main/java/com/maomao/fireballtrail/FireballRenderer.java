@@ -68,7 +68,7 @@ public class FireballRenderer {
                 if (mop != null &&
                         mop.typeOfHit == MovingObjectPosition.MovingObjectType.BLOCK) {
 
-                    float seconds = i / 20f;
+                    float seconds = (i + 1) / 20f;
                     info = new ImpactInfo(mop.hitVec, seconds);
                     break;
                 }
