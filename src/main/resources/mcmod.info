@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "fireballtrail",
+    "name": "FireballTrail",
+    "description": "Fuck off on my road okay???",
+    "version": "1.0.0",
+    "mcversion": "[1.8.8,)",
+    "url": "",
+    "authorList": [
+      "LovableMaomao"
+    ],
+    "credits": ""
+  }
+]
